@@ -1,0 +1,6 @@
+interface:
+  display_name: "NDA analysis"
+  short_description: "NDA go/no-go, clause risks, and suggested edits"
+  default_prompt: "Use $nda-analysis to review this NDA against the GATE worksheet, give a go/no-go recommendation, highlight risks, and propose clause edits."
+policy:
+  allow_implicit_invocation: true
