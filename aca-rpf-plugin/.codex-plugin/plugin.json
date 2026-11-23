@@ -1,0 +1,10 @@
+{
+  "name": "aca-rpf-plugin",
+  "version": "1.0.0",
+  "description": "Review incoming confidentiality agreements against the seven-point GeoPost GATE worksheet.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "aca rpf plugin",
+    "shortDescription": "Review NDAs against the GeoPost GATE worksheet."
+  }
+}
